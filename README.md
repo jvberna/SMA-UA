@@ -1,2 +1,2 @@
 # SMA-UA
-Repositorio para la asignatura SMA de la Universidad de Alicante con ejemplos y materiales
+Repositorio para la asignatura Serviciso Multimedia Avanzados del Grado de Ingeniería Multimedia de la Universidad de Alicante con ejemplos y materiales
